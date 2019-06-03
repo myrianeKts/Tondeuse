@@ -1,0 +1,9 @@
+{
+    "name": "tondeuse",
+    "version": "0.1.0",
+    "dependencies": {
+        "fs": "~2.2.0"
+    },
+    "author": "Myriane",
+    "description": "Tondeuse robot"
+}
